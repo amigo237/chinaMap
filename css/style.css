@@ -1,0 +1,13 @@
+/** 地图提示 **/
+.mapTip {
+    display:none;
+    position:absolute;
+    padding:8px;
+    background:#fff;
+    border:2px solid #2385B1;
+    font-size:12px;
+    color:#333;
+    -webkit-border-radius: 4px;
+       -moz-border-radius: 4px;
+            border-radius: 4px;
+}
